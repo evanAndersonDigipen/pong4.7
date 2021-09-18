@@ -1,2 +1,2 @@
 # pong4.7
- Squel to pong 4.2
+ Sequel to pong 4.2
